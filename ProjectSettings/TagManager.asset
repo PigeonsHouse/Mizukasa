@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ramiel
+  - Poison
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Sea
+  - Goal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3201337445
+    locked: 0
+  - name: Item
+    uniqueID: 2092893719
+    locked: 0
+  - name: Sea
+    uniqueID: 1169308659
+    locked: 0
+  - name: PL
+    uniqueID: 3586765831
+    locked: 0
+  - name: Behind
+    uniqueID: 1389155389
+    locked: 0
+  - name: UI
+    uniqueID: 1277037773
+    locked: 0
